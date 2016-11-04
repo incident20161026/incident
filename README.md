@@ -9,40 +9,35 @@
 * [墙内视频链接](http://weibo.com/tv/v/EeGjn5jTp)  
 * [墙外视频链接](https://www.youtube.com/watch?v=vi7Fy1q1gJM)
 
-![网友关于车速的推测](http://upload-images.jianshu.io/upload_images/151701-44c8534a0e63e34f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+  ![网友关于车速的推测](http://upload-images.jianshu.io/upload_images/151701-44c8534a0e63e34f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 事件发生后，  
 一方面微博、微信、知乎、天涯上关于此事的讨论不断被无故删帖；  
 另一方面官方给出的事故原因“肇事司机没睡好”“失忆了”等原因实在难以让人信服。  
 
 11月3日，对外经济贸易大学校友在知乎的相关文章被删。  
-![截图来自[虎扑](http://bbs.hupu.com/17678785.html)](http://upload-images.jianshu.io/upload_images/151701-2aea8e5f8ca11dd3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+  ![截图来自[虎扑](http://bbs.hupu.com/17678785.html)](http://upload-images.jianshu.io/upload_images/151701-2aea8e5f8ca11dd3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-![这些微信图文1小时内都打不开了](http://upload-images.jianshu.io/upload_images/151701-f4db5f6a8415cab2.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 # 被删帖子： 
 
-搬到Github的链接：  
+  
+======================================
+##### 搬到Github的链接：  
+### [**北苑车祸事件，对外经贸大学丁莹校友车祸事故情况说明**](https://github.com/incident20161026/incident20161026/blob/master/%E8%A2%AB%E5%88%A0%E5%B8%96%E5%AD%90%EF%BC%9A%E5%8C%97%E8%8B%91%E8%BD%A6%E7%A5%B8%E4%BA%8B%E4%BB%B6%EF%BC%8C%E5%AF%B9%E5%A4%96%E7%BB%8F%E8%B4%B8%E5%A4%A7%E5%AD%A6%E4%B8%81%E8%8E%B9%E6%A0%A1%E5%8F%8B%E8%BD%A6%E7%A5%B8%E4%BA%8B%E6%95%85%E6%83%85%E5%86%B5%E8%AF%B4%E6%98%8E.md)  
 
-引用自[参与网](https://www.canyu.org/n127665c12.aspx)、[虎扑步行街](http://bbs.hupu.com/17678785.html)，但这两个链接随时可能消失。  
+======================================  
+
+引用自
+* [参与网](https://www.canyu.org/n127665c12.aspx)  
+* [虎扑步行街](http://bbs.hupu.com/17678785.html)  
+（但这两个链接随时可能消失）  
 
 
 
 
 
 # 个人关于删帖情况的一些观察  
-* 网帖的幸存者偏差  
-晚一些知道这件事故的网友可能会觉得贸大校友太夸张，这不就算用国内某著名搜索引擎一搜，新闻报道全都有嘛，何来删帖封锁之说？一个个像得了被害妄想症似的。
-  ![某度搜索结果](http://upload-images.jianshu.io/upload_images/151701-152c9464e250b605.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-其实不然。  
-假设一共有10个相关讨论帖，  
-9个被删了，参与这9个帖子的网友会纷纷发现卧槽怎么无故就政治敏感了，于是自发网络造势；  
-两天过后作为一个吃瓜群众的你无意中看到了剩下没删的1个帖以及前面网友的造势， 你很自然就会在网上喷一句MDZZ==
-
-  亲身体验一把删帖最直观的方式就是在社交媒体上关注一些[肯定要被删]的帖子，  
-例如校友求助帖，过不了多久你就会发现打不开了。  
-  只是这样的帖子现在应该看不到了。
-
 * 选择性删帖。  
 伪装成“正常”事故的不会被删，  
 提出质疑的或是校友求助的，转发人数多了之后就会被删。
@@ -53,5 +48,22 @@
  ![原来没睡好还能120迈激情过市区红绿灯啊](http://upload-images.jianshu.io/upload_images/151701-2088df72c3b43e4c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![交警同志教育你一定要睡好觉精神集中哦](http://upload-images.jianshu.io/upload_images/151701-1320dab5d96d0945.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-  * 被删的如[北苑车祸事件，对外经贸大学丁莹校友车祸事故情况说明]
+  * 被删的如我搬运到Github的[北苑车祸事件，对外经贸大学丁莹校友车祸事故情况说明](https://github.com/incident20161026/incident20161026/blob/master/%E8%A2%AB%E5%88%A0%E5%B8%96%E5%AD%90%EF%BC%9A%E5%8C%97%E8%8B%91%E8%BD%A6%E7%A5%B8%E4%BA%8B%E4%BB%B6%EF%BC%8C%E5%AF%B9%E5%A4%96%E7%BB%8F%E8%B4%B8%E5%A4%A7%E5%AD%A6%E4%B8%81%E8%8E%B9%E6%A0%A1%E5%8F%8B%E8%BD%A6%E7%A5%B8%E4%BA%8B%E6%95%85%E6%83%85%E5%86%B5%E8%AF%B4%E6%98%8E.md)  则在阅读数达到一定程度后消失得一干二净。而“说明”全文并无言辞过激之处。  
+  ![这些微信图文很快都打不开了](http://upload-images.jianshu.io/upload_images/151701-f4db5f6a8415cab2.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  
+* 网帖的幸存者偏差  
+晚一些知道这件事故的网友可能会觉得贸大校友太夸张，这不就算用国内某著名搜索引擎一搜，新闻报道全都有嘛，何来删帖封锁之说？一个个像得了被害妄想症似的。
+  ![某度搜索结果](http://upload-images.jianshu.io/upload_images/151701-152c9464e250b605.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+其实不然。  
+假设一共有10个相关讨论帖，9个被删了，  
+参与这9个帖子的网友会纷纷发现卧槽怎么无故就政治敏感了，  
+于是自发网络造势；  
+两天过后作为一个吃瓜群众的你无意中看到了剩下没删的1个帖以及前面网友的造势，   
+你很自然就会觉得校友反应过激，然后在网上喷一句MDZZ==
+
+  亲身体验一把删帖最直观的方式，  
+就是在社交媒体上关注一些[肯定要被删]的帖子，  
+例如校友求助帖，过不了多久你就会发现打不开了。  
+ （只不过校友求助贴估计你在别的地方只能看到图片了）
+或者这篇来自事故最早爆料人@右小死的[北京北苑车祸，7车连撞事故刚到底！](http://weibo.com/ttarticle/p/show?id=2309404035157639191252)，
+指不定什么时候也会没了呢。  
 
