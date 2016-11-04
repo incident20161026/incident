@@ -1,3 +1,15 @@
+# 被删帖子： 
+======================================
+##### 搬到Github的链接：  
+### [**北苑车祸事件，对外经贸大学丁莹校友车祸事故情况说明**](https://github.com/incident20161026/incident20161026/blob/master/%E8%A2%AB%E5%88%A0%E5%B8%96%E5%AD%90%EF%BC%9A%E5%8C%97%E8%8B%91%E8%BD%A6%E7%A5%B8%E4%BA%8B%E4%BB%B6%EF%BC%8C%E5%AF%B9%E5%A4%96%E7%BB%8F%E8%B4%B8%E5%A4%A7%E5%AD%A6%E4%B8%81%E8%8E%B9%E6%A0%A1%E5%8F%8B%E8%BD%A6%E7%A5%B8%E4%BA%8B%E6%95%85%E6%83%85%E5%86%B5%E8%AF%B4%E6%98%8E.md)  
+
+======================================  
+
+引用自
+* [参与网](https://www.canyu.org/n127665c12.aspx)  
+* [虎扑步行街](http://bbs.hupu.com/17678785.html)  
+（但这两个链接随时可能消失）  
+
 # 事件简述  
 2016年10月26日，对外经济贸易大学07级校友丁女士中午步行回家午休。  
 在她遵守交规绿灯走斑马线过马路的情况下，   
@@ -17,24 +29,6 @@
 
 11月3日，对外经济贸易大学校友在知乎的相关文章被删。  
   ![截图来自[虎扑](http://bbs.hupu.com/17678785.html)](http://upload-images.jianshu.io/upload_images/151701-2aea8e5f8ca11dd3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-
-# 被删帖子： 
-
-  
-======================================
-##### 搬到Github的链接：  
-### [**北苑车祸事件，对外经贸大学丁莹校友车祸事故情况说明**](https://github.com/incident20161026/incident20161026/blob/master/%E8%A2%AB%E5%88%A0%E5%B8%96%E5%AD%90%EF%BC%9A%E5%8C%97%E8%8B%91%E8%BD%A6%E7%A5%B8%E4%BA%8B%E4%BB%B6%EF%BC%8C%E5%AF%B9%E5%A4%96%E7%BB%8F%E8%B4%B8%E5%A4%A7%E5%AD%A6%E4%B8%81%E8%8E%B9%E6%A0%A1%E5%8F%8B%E8%BD%A6%E7%A5%B8%E4%BA%8B%E6%95%85%E6%83%85%E5%86%B5%E8%AF%B4%E6%98%8E.md)  
-
-======================================  
-
-引用自
-* [参与网](https://www.canyu.org/n127665c12.aspx)  
-* [虎扑步行街](http://bbs.hupu.com/17678785.html)  
-（但这两个链接随时可能消失）  
-
-
-
 
 
 # 个人关于删帖情况的一些观察  
@@ -64,6 +58,10 @@
 就是在社交媒体上关注一些[肯定要被删]的帖子，  
 例如校友求助帖，过不了多久你就会发现打不开了。  
  （只不过校友求助贴估计你在别的地方只能看到图片了）
-或者这篇来自事故最早爆料人@右小死的[北京北苑车祸，7车连撞事故刚到底！](http://weibo.com/ttarticle/p/show?id=2309404035157639191252)，
+或者这篇来自事故最早爆料人@右小死的[北京北苑车祸，7车连撞事故刚到底！](http://weibo.com/ttarticle/p/show?id=2309404035157639191252)，  
 指不定什么时候也会没了呢。  
+
+屁民一个的我能做的，也就是继续传播，静观其变了。    
+最后上一张虹远楼镇帖。  
+![with U I be](http://upload-images.jianshu.io/upload_images/151701-47aa3abeca22ab6c.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
